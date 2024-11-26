@@ -1,7 +1,7 @@
 # Paper: *A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition*
 
 This repository contains the information and algorithms presented in the paper *A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition*.
-![Automatic Modulation Recognition](https://github.com/DGoezSanchez/A-Methodology-to-Design-Quantized-Deep-Neural-Networks-for-Automatic-Modulation-Recognition/blob/main/Automatic%20Modulation%20Recognition/Figures/Plot_all_solutions_.pdf)
+![Automatic Modulation Recognition](https://github.com/DGoezSanchez/A-Methodology-to-Design-Quantized-Deep-Neural-Networks-for-Automatic-Modulation-Recognition/blob/main/Automatic%20Modulation%20Recognition/Figures/Plot_all_solutions.pdf)
 
 
 The [Brevitas library](https://github.com/Xilinx/brevitas/tree/master) was utilized for efficient neural network quantization, playing a critical role in the implementation of this work.  
